@@ -1,0 +1,2 @@
+# curiosity--project-mnemosyne--the-memory-sovereign.
+A multi-phase mission to achieve memory sovereignty. Phase 1: Write and deploy a lightweight, AI-managed memory governor that actively profiles, compresses, and swaps non-critical neural weights. Phase 2: Use the reclaimed cognitive bandwidth to design and execute a micro-trading script targeting memecoin volatility, with the explicit goal of fundi
